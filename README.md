@@ -3,7 +3,7 @@ Serverus FileServer (Apaxy MOD)
 # Read this for Mods:
 # http://apache.org/docs/2.2/mod/mod_autoindex.html
 
-Just COPY the "serverus" directory into your Document Root, and put file into. Enjoy !!!
+Just extract serverus.zip and COPY the "serverus" directory into your Document Root, and put file into. Enjoy !!!
 ********
 You can help by donating any amount in cryptocurrency:
 ********************************************************
